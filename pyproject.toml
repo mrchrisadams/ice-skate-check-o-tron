@@ -1,0 +1,13 @@
+[project]
+name = "ice-skate-check-o-tron"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipdb>=0.13.13",
+    "notify-py>=0.3.43",
+    "py-notifier>=0.5.0",
+    "rich>=13.9.2",
+    "shot-scraper>=1.5",
+]
